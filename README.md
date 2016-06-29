@@ -8,7 +8,7 @@ Here you'll find a few examples of code from a previous engagement. Note the com
 
 `EmbedController.php`
 
-This file represents a small controller to handle requests for users to access iframe embeedable views of their equipment.
+This file represents a small controller to handle requests for users to access iframe embeddable views of their equipment.
 
 `Embed-Model.php`
 
@@ -57,4 +57,4 @@ This is a grid layout that accepted handlebars and raw html and arranged them us
 
 `jQuery-views\labadmin-index.js`
 
-Here is a massive file that represents the control of a flexbox based view for administration of labs and equipment. Normally I would prefer to break this up into a series of modules that could be compiled through a build process, but due to the contraints of our application's structure and lack of CI build processes, this had to be written as a single file. 
+Here is a massive file that represents the control of a flexbox based view for administration of labs and equipment. Normally I would prefer to break this up into a series of modules that could be compiled through a build process, but due to the constraints of our application's structure and lack of CI build processes, this had to be written as a single file. 
